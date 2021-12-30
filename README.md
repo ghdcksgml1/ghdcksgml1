@@ -2,6 +2,8 @@
 
 <br/>
 
+![P20211122_210843932_431DD836-8FD9-4909-B3B1-A8C50EAB8487](https://user-images.githubusercontent.com/79779676/147719738-d4acee2c-1e0d-44d8-810b-37f901718676.JPG)
+
 ## 🔭 Cards  
 
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=ghdcksgml1&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/ghdcksgml1)
