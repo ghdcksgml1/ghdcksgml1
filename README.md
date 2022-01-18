@@ -2,7 +2,7 @@
 
 <br/>
 
-![P20211122_210843932_431DD836-8FD9-4909-B3B1-A8C50EAB8487](https://user-images.githubusercontent.com/79779676/147719738-d4acee2c-1e0d-44d8-810b-37f901718676.JPG)
+<img width="754" alt="스크린샷 2022-01-18 오후 5 41 49" src="https://user-images.githubusercontent.com/79779676/149926410-89da215c-c869-4536-bf17-4edb8e6417ce.png">
 
 ## 🔭 Cards  
 
