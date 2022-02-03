@@ -7,9 +7,9 @@
 ## 🔭 Cards  
 
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=ghdcksgml1&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/ghdcksgml1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghdcksgml1&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghdcksgml1&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats) -->
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdcks33)](https://solved.ac/ghdcks33)
-[![status](https://github-readme-streak-stats.herokuapp.com/?user=ghdcksgml1)](#)
+<!-- [![status](https://github-readme-streak-stats.herokuapp.com/?user=ghdcksgml1)](#) -->
 
 
 ## 🔭 Interest
