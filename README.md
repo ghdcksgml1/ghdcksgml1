@@ -2,7 +2,7 @@
 
 <br/>
 
-<img width="754" alt="스크린샷 2022-01-18 오후 5 41 49" src="https://user-images.githubusercontent.com/79779676/149926410-89da215c-c869-4536-bf17-4edb8e6417ce.png">
+![271701066_468266614662897_4988745020589923958_n](https://user-images.githubusercontent.com/79779676/154311657-e4b319a2-bb9a-4b3b-9dce-2d7614c176a4.jpeg)
 
 ## 🔭 Cards  
 
