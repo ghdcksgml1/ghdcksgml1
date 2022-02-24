@@ -8,7 +8,7 @@
 
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=ghdcksgml1&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/ghdcksgml1)
 
-![Solved.ac 프로필](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ghdcks33)
+[![Solved.ac 프로필](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ghdcks33)](https://solved.ac/profile/ghdcks33)
 
 
 ## 🔭 Interest
