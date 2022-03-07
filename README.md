@@ -2,7 +2,7 @@
 
 <br/>
 
-![img](https://user-images.githubusercontent.com/79779676/156104258-b74abfd1-d9e2-47b0-b741-d5bd2b3f8eb7.gif)
+![cat-tetris](https://user-images.githubusercontent.com/79779676/156973138-4b9b51e7-dc93-49c8-aa07-5d11b94be6fe.gif)
 
 ## 🔭 Cards  
 
