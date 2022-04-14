@@ -2,13 +2,14 @@
 
 <br/>
 
-![cat-tetris](https://user-images.githubusercontent.com/79779676/156973138-4b9b51e7-dc93-49c8-aa07-5d11b94be6fe.gif)
+![iusec++injava](https://user-images.githubusercontent.com/79779676/163308275-3fa4c585-9660-486d-8e64-c83308a54f74.jpeg)
 
 ## 🔭 Cards  
 
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=ghdcksgml1&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/ghdcksgml1)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdcks33)](https://solved.ac/ghdcks33)
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=ghdcksgml1&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-purple)](https://github.com/ghdcksgml1)
 
-[![Solved.ac 프로필](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ghdcks33)](https://solved.ac/profile/ghdcks33)
+<!-- [![Solved.ac 프로필](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ghdcks33)](https://solved.ac/profile/ghdcks33) -->
 
 
 ## 🔭 Interest
