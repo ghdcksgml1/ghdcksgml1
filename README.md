@@ -2,7 +2,7 @@
 
 <br/>
 
-![iusec++injava](https://user-images.githubusercontent.com/79779676/163308275-3fa4c585-9660-486d-8e64-c83308a54f74.jpeg)
+![image](https://user-images.githubusercontent.com/79779676/164978966-822ea6c9-cea4-48b1-bc9c-93e531bc358e.png)
 
 ## 🔭 Cards  
 
