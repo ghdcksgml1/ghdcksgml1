@@ -2,7 +2,8 @@
 
 <br/>
 
-![image](https://user-images.githubusercontent.com/79779676/164978966-822ea6c9-cea4-48b1-bc9c-93e531bc358e.png)
+![image](https://user-images.githubusercontent.com/79779676/168221259-bd20139d-bb51-4b76-97ec-d7e4bfbf08ef.png)
+
 
 ## 🔭 Cards  
 
