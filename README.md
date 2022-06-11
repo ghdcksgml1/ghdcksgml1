@@ -1,8 +1,8 @@
-# ChanHee Hong 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghdcksgml1&count_bg=%233D73C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghdcksgml1&count_bg=%233D73C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br/>
 
-![image](https://user-images.githubusercontent.com/79779676/168221259-bd20139d-bb51-4b76-97ec-d7e4bfbf08ef.png)
+![위베어베어스](https://user-images.githubusercontent.com/79779676/173166768-56a3dc5c-23b3-419f-8e7e-8aafe6469ad4.gif)
 
 
 ## 🔭 Cards  
