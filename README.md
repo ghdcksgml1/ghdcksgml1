@@ -9,7 +9,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdcks33)](https://solved.ac/ghdcks33)
 <img src="http://mazandi.herokuapp.com/api?handle=ghdcks33"/>
-[![CodeForces Profile](https://cf.leed.at?id=32185010)](https://codeforces.com/profile/32185010)
+<!-- [![CodeForces Profile](https://cf.leed.at?id=32185010)](https://codeforces.com/profile/32185010) -->
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=ghdcksgml1&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-purple)](https://github.com/ghdcksgml1)
 
 <!-- [![Solved.ac 프로필](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ghdcks33)](https://solved.ac/profile/ghdcks33) -->
