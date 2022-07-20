@@ -9,7 +9,7 @@
 
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdcks33)](https://solved.ac/ghdcks33) -->
 
-<img src="http://mazandi.herokuapp.com/api?handle=ghdcks33"/>
+[<img src="http://mazandi.herokuapp.com/api?handle=ghdcks33"/>](https://solved.ac/ghdcks33)
 
 <!-- [![CodeForces Profile](https://cf.leed.at?id=32185010)](https://codeforces.com/profile/32185010) -->
 
