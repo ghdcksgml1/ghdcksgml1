@@ -34,7 +34,7 @@
    - [Baekjoon](https://www.acmicpc.net/user/ghdcks33)
    - [SWEA](https://swexpertacademy.com/main/userpage/userInformation.do)
    - [Codeforce](https://codeforces.com/profile/32185010)
-   - [Programmers](https://career.programmers.co.kr/job_profiles/edit)
+   - [Programmers](https://career.programmers.co.kr/job_profiles/public_setting)
 
 <!--
 **ghdcksgml1/ghdcksgml1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
