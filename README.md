@@ -7,6 +7,8 @@
 
 ## 🔭 Cards  
 
+<img src="https://user-images.githubusercontent.com/79779676/184689043-95dad06b-c73b-4875-9d79-ac50753b5495.gif" width="150"/>
+
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdcks33)](https://solved.ac/ghdcks33) -->
 
 [<img src="http://mazandi.herokuapp.com/api?handle=ghdcks33"/>](https://solved.ac/ghdcks33)
