@@ -13,7 +13,7 @@
 
 <!-- [![CodeForces Profile](https://cf.leed.at?id=32185010)](https://codeforces.com/profile/32185010) -->
 
-<img src="https://github-stats-alpha.vercel.app/api?username=ghdcksgml1"/>
+<!-- <img src="https://github-stats-alpha.vercel.app/api?username=ghdcksgml1"/> -->
 
 <!-- [![Solved.ac 프로필](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ghdcks33)](https://solved.ac/profile/ghdcks33) -->
 
