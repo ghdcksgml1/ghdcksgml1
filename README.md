@@ -2,7 +2,7 @@
 
 <br/>
 
-안녕하세요. 홍찬희입니다.
+안녕하세요. [잇다](https://eat-da.com/) 백엔드 개발자 홍찬희입니다.
 
 
 ## 🔭 Cards  
@@ -24,10 +24,9 @@
   - C/C++
   - Python
   - Java
-  - PHP
+  - Kotlin
  
  - Frameworks
-   - Laravel
    - Spring Boot
    
  - Problem Solving
@@ -35,6 +34,15 @@
    - [SWEA](https://swexpertacademy.com/main/userpage/userInformation.do)
    - [Codeforce](https://codeforces.com/profile/32185010)
    - [Programmers](https://career.programmers.co.kr/job_profiles/public_setting)
+
+## 🏆 Prizes
+
+-  2022년 단국대학교 SW공모전(경소톤) [금상] **(2022.08)**
+-  2022년 건단국 창업아이디어 경진대회 수상 **(2022.11)**
+-  인공지능 아이디어 페스티벌 우수상 [한국외대 AI교육원장상] **(2022.11)**
+-  다우기술-단국대 프로그래밍 경진대회 [금상] **(2022.11)**
+-  SW중심대학주관 SW인재 페스티벌 [최우수상] **(2022.12)**
+-  SW 상생혁신캠퍼스데이 [최우수상] **(2022.12)**
 
 <!--
 **ghdcksgml1/ghdcksgml1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
