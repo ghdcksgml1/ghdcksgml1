@@ -43,6 +43,7 @@
 -  다우기술-단국대 프로그래밍 경진대회 [금상] **(2022.11)**
 -  SW중심대학주관 SW인재 페스티벌 [최우수상] **(2022.12)**
 -  SW 상생혁신캠퍼스데이 [최우수상] **(2022.12)**
+-  제 1회 단국대학교 SW융합대학 알고리즘 경진대회 [[DK콘](https://cogo.co.kr/contest/61/ranking)] 1등 **(2023.01)**
 
 <!--
 **ghdcksgml1/ghdcksgml1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
