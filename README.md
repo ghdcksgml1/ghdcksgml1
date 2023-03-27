@@ -50,13 +50,15 @@
 
 ## 🏆 Prizes
 
--  2022년 단국대학교 SW공모전(경소톤) [[금상](https://swcu.dankook.ac.kr/web/swcup/-13?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_curPage=2&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=761238)] **(2022.08)**
--  2022년 건단국 창업아이디어 경진대회 수상 **(2022.11)**
--  인공지능 아이디어 페스티벌 우수상 [한국외대 AI교육원장상] **(2022.11)**
--  다우기술-단국대 프로그래밍 경진대회 [[금상](https://swcu.dankook.ac.kr/web/swcup/-13?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_orderBy=createDate&_Bbs_WAR_bbsportlet_curPage=1&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=765154)] **(2022.11)**
--  SW중심대학주관 SW인재 페스티벌 [[최우수상](https://swcu.dankook.ac.kr/web/swcup/-13?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_orderBy=createDate&_Bbs_WAR_bbsportlet_curPage=1&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=765636)] **(2022.12)**
--  SW 상생혁신캠퍼스데이 [[최우수상](https://swcu.dankook.ac.kr/web/swcup/-13?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_curPage=1&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=766186)] **(2022.12)**
--  제 1회 단국대학교 SW융합대학 알고리즘 경진대회 [[DK콘](https://cogo.co.kr/contest/61/ranking)] 1등 **(2023.01)**
+- 잇다
+  - 2022년 단국대학교 SW공모전(경소톤) [[금상](https://swcu.dankook.ac.kr/web/swcup/-13?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_curPage=2&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=761238)] **(2022.08)**
+  - 2022년 건단국 창업아이디어 경진대회 수상 **(2022.11)**
+  - 인공지능 아이디어 페스티벌 우수상 [한국외대 AI교육원장상] **(2022.11)**
+  - SW중심대학주관 SW인재 페스티벌 [[최우수상](https://swcu.dankook.ac.kr/web/swcup/-13?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_orderBy=createDate&_Bbs_WAR_bbsportlet_curPage=1&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=765636)] **(2022.12)**
+  - SW 상생혁신캠퍼스데이 [[최우수상](https://swcu.dankook.ac.kr/web/swcup/-13?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_curPage=1&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=766186)] **(2022.12)**
+- 쿠폰 메이트
+  - 다우기술-단국대 프로그래밍 경진대회 [[금상](https://swcu.dankook.ac.kr/web/swcup/-13?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_orderBy=createDate&_Bbs_WAR_bbsportlet_curPage=1&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=765154)] **(2022.11)**
+- 제 1회 단국대학교 SW융합대학 알고리즘 경진대회 [[DK콘](https://cogo.co.kr/contest/61/ranking)] 1등 **(2023.01)**
 
 <!--
 **ghdcksgml1/ghdcksgml1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
