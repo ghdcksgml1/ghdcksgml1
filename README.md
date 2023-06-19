@@ -65,6 +65,7 @@
 - 쿠폰 메이트
   - 다우기술-단국대 프로그래밍 경진대회 [[금상](https://swcu.dankook.ac.kr/web/swcup/-13?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_orderBy=createDate&_Bbs_WAR_bbsportlet_curPage=1&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=765154)] **(2022.11)**
 - 제 1회 단국대학교 SW융합대학 알고리즘 경진대회 [[DK콘](https://cogo.co.kr/contest/61/ranking)] 1등 **(2023.01)**
+- 2023년 새싹톤(SeSACTHON) [서울특별시장상 최우수상]
 
 <!--
 **ghdcksgml1/ghdcksgml1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
