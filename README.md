@@ -54,6 +54,11 @@
    - [Codeforce](https://codeforces.com/profile/32185010)
    - [Programmers](https://career.programmers.co.kr/job_profiles/public_setting)
 
+## 📓 Activities
+- 단국대학교 컴퓨터공학과 18학번 **(2018.03 ~ 재학중)**
+- W+ Coding (C++, JAVA) 알고리즘 강사 **(2022.06 ~ 2022.09)**
+- 다우기술 차세대비즈개발팀 학생인턴 | 어드민 정산시스템 배치관리 기능 개발 **(2023.07.03 ~ 2023.08.11)**
+
 ## 🏆 Prizes
 
 - 잇다
