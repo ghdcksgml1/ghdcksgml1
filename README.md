@@ -41,7 +41,6 @@
  
  - Frameworks
    - Spring Boot
-   - WebFlux (coroutine)
 
  - Dev
    - Docker
