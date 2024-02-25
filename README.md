@@ -38,9 +38,11 @@
   - Python
   - Java
   - Kotlin
+  - TypeScript
  
  - Frameworks
    - Spring Boot
+   - Express Js
 
  - Dev
    - Docker
