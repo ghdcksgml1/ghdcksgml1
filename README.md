@@ -42,6 +42,7 @@
  
  - Frameworks
    - Spring Boot
+   - Spring Ai (RAG)
    - Express Js
 
  - Dev
