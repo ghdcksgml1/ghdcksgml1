@@ -36,8 +36,6 @@
 ## 🔭 Interest
 
 - Languages
-  - C/C++
-  - Python
   - Java
   - Kotlin
   - TypeScript
@@ -49,16 +47,8 @@
    - LangChain
    - LangGraph
 
- - Dev
-   - Docker
-   - Kubernetes
-   - Istio
-   
- - Problem Solving
-   - [Baekjoon](https://www.acmicpc.net/user/ghdcks33)
-   - [SWEA](https://swexpertacademy.com/main/userpage/userInformation.do)
-   - [Codeforce](https://codeforces.com/profile/32185010)
-   - [Programmers](https://career.programmers.co.kr/job_profiles/public_setting)
+- DataBases
+  - Milvus Vector DB
 
 ## 📓 Activities
 - 단국대학교 컴퓨터공학과 18학번 **(2018.03 ~ 2024.02)**
@@ -71,7 +61,7 @@
 
 - **[사내발표]** 하이웍스 예약메일 스프링배치 적용기 **(2024.08.13)** [바로가기](https://blog.naver.com/ghdcksgml2/223582794134)
 - **[사내발표]** (개발동아리 팀즈) RAG를 활용한 하이웍스 메뉴얼 연동 **(2024.10.08)** [바로가기](https://blog.naver.com/ghdcksgml2/223714615422)
-
+- **[사내스터디]** Kotlin in Action 2/e 도서 스터디 **(2025.04.01 ~ 2025.07.29)** [바로가기]([https://blog.naver.com/ghdcksgml2/223714615422](https://github.com/DevNLearn/kotlin-in-action-2e))
 
 <!-- ## 🏆 Prizes
 
